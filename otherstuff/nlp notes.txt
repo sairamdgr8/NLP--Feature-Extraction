@@ -1,0 +1,26 @@
+NLP Project Help:-
+
+https://towardsdatascience.com/do-the-keywords-in-your-resume-aptly-represent-what-type-of-data-scientist-you-are-59134105ba0d
+
+top 5 nlp techniques used:-
+
+https://blog.aureusanalytics.com/blog/5-natural-language-processing-techniques-for-extracting-information
+
+nlp basic:-\
+
+https://towardsdatascience.com/introduction-to-natural-language-processing-for-text-df845750fb63  --great contetct learned diff between count vectorizser and term frequency vectorizer
+
+
+-------for nlp word files conversiom
+
+https://garywoodfine.com/how-to-convert-word-documents-to-text-files-with-python/
+
+https://ogrisel.github.io/scikit-learn.org/sklearn-tutorial/modules/feature_extraction.html --feature extraction determining the diff between vectoizer and count vectizer
+
+https://scikit-learn.org/stable/modules/feature_extraction.html----6.2.3.4. Tf–idf term weighting ----good expaination on tfidf
+
+https://www.geeksforgeeks.org/matplotlib-axes-axes-barh-in-python/----for relevant visualization
+
+https://dcl-data-vis.stanford.edu/discrete-continuous.html------need to check
+
+https://www.kaggle.com/python10pm/plotting-with-python-learn-80-plots-step-by-step ----------line46,47
